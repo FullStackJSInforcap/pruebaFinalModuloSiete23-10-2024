@@ -23,7 +23,6 @@ const findAllUsuarios = async () => {
             datos: []
         }
     }
-
 }
 
 const createUsuario = async (nombre, balance) => {
